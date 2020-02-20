@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- Xbox One Console Companion App Modded Config File -->
+<settings>
+	<!-- Add to Hosts file -->
+	<hostsblocker>127.0.0.1 settings.data.microsoft.com</hostsblocker>
+
+	<!-- Bitrate -->
+	<!-- Supported Values: Percentage between 10 and 90 -->
+	<quality>70</quality>
+	
+	<!-- Resolution -->
+	<!-- Supported Values: 480p, 720p, 1080p -->
+	<resolution>1080</resolution>	
+	
+	<!-- Framerate-->
+	<!-- Supported Values: 30FPS, 60FPS -->
+	<framerate>30</framerate>
+</settings>
