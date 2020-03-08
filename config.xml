@@ -6,13 +6,13 @@
 
 	<!-- Bitrate -->
 	<!-- Supported Values: Percentage between 10 and 90 -->
-	<quality>70</quality>
+	<quality>90</quality>
 	
 	<!-- Resolution -->
 	<!-- Supported Values: 480p, 720p, 1080p -->
-	<resolution>1080</resolution>	
+	<resolution>1000</resolution>	
 	
 	<!-- Framerate-->
 	<!-- Supported Values: 30FPS, 60FPS -->
-	<framerate>30</framerate>
+	<framerate>60</framerate>
 </settings>
